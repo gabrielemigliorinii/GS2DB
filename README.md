@@ -1,4 +1,4 @@
-# Google Spresheet To Database
+# Google Spresheet To Database (GS2DB)
 ## Project Description:
 
 School project.
